@@ -10,7 +10,8 @@
         </div>
         <div class="column is-4">
           <div class="mensagem">
-            <p>Pode ficar tranquilo que podemos te ajudar. Entre em contato com a gente da forma como preferir</p>
+            <p>Pode ficar tranquilo que podemos te ajudar. Entre em contato com a gente
+               da forma como preferir</p>
           </div>
         </div>
       </div>

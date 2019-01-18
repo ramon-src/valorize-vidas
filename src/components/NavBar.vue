@@ -7,4 +7,3 @@ export default {
   name: 'NavBar',
 };
 </script>
-
