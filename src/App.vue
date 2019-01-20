@@ -18,3 +18,4 @@ export default {
 };
 </script>
 
+<style lang="scss" src="./assets/sass/_styles.scss"></style>
