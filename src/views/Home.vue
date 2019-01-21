@@ -10,7 +10,7 @@ import Container from '@/components/Container.vue';
 export default {
   name: 'home',
   components: {
-    Container
-  }
+    Container,
+  },
 };
 </script>
