@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 
+[<img src="https://apoia.se/img/logoRed.svg" alt="drawing" width="100"/>](http://apoia.se/valorizevidas) Apoie nossa campanha de financiamento coletivo!
 
 # Valorize Vidas
 
