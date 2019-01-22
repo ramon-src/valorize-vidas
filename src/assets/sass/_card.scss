@@ -10,12 +10,15 @@
   
   > .icone {
     color: #FFFFFF;
+    height: 90px;
+    margin-bottom: 20px;
   }
 
-  & label {
-    font-size: 23px;
+  & .label {
+    font-size: 1.2em;
     font-weight: bold;
     color: #FFFFFF;
-    font-family: 'Montserrat Bold'
+    font-family: 'Montserrat Bold';
+    text-transform: uppercase;
   }
 }
