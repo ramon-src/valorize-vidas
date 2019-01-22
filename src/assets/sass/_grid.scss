@@ -1,0 +1,36 @@
+.card-column {
+  @include tablet {
+    flex: 0 0 230px;
+  }
+}
+
+.is-centered-tablet-only {
+  @include tablet {
+    justify-content: center;
+  }
+  @include desktop {
+    justify-content: flex-start;
+  }
+}
+
+.column.cards-container-column {
+  @include widescreen {
+    flex: none;
+    width: 480px;
+  }
+}
+
+.main {
+  padding: 20px;
+  max-width: 460px;
+  margin: auto;
+  @include tablet {
+    padding: 0;
+    max-width: 560px;
+  }
+  @include desktop {
+    padding: 0;
+    max-width: none;
+    margin: none;
+  }
+}
