@@ -1,5 +1,4 @@
 import Vue from 'vue';
-import './assets/sass/_styles.scss';
 
 import router from './router';
 import App from './App.vue';
