@@ -11,7 +11,10 @@
           </div>
           <div class="column is-full-tablet is-4-desktop">
             <div class="mensagem">
-              <p>Pode ficar tranquilo que podemos te ajudar. Entre em contato com a gente da forma como preferir</p>
+              <p>
+                Pode ficar tranquilo que podemos te ajudar.
+                Entre em contato com a gente da forma como preferir
+              </p>
             </div>
           </div>
         </div>
