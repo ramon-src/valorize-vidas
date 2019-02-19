@@ -1,7 +1,7 @@
 <template>
   <footer>
-    <div class="container footer">
-      <div class="row footer">
+    <div class="container">
+      <div class="footer">
         <div class="footer__social--container">
           <img class="footer__social--logo" :src="require('@/assets/icons/facebook.svg')">
           <img class="footer__social--logo" :src="require('@/assets/icons/instagram.svg')">

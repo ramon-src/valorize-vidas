@@ -12,6 +12,6 @@
 </template>
 <script>
 export default {
-  name: "FormContact"
+  name: 'FormContact',
 };
 </script>
