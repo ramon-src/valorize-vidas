@@ -1,16 +1,16 @@
 <template>
   <div class="home">
-    <Container/>
+    <Container />
   </div>
 </template>
 
 <script>
-import Container from '@/components/Container.vue';
+import Container from '@/components/Container.vue'
 
 export default {
   name: 'home',
   components: {
-    Container,
-  },
-};
+    Container
+  }
+}
 </script>

@@ -7,11 +7,12 @@
       frameborder="0"
       marginheight="0"
       marginwidth="0"
-    >Carregando…</iframe>
+      >Carregando…</iframe
+    >
   </div>
 </template>
 <script>
 export default {
-  name: 'FormContact',
-};
+  name: 'FormContact'
+}
 </script>
