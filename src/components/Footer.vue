@@ -3,11 +3,19 @@
     <div class="container">
       <div class="footer">
         <div class="footer__social--container">
-          <img class="footer__social--icon" :src="require('@/assets/icons/facebook.svg')" />
-          <img class="footer__social--icon" :src="require('@/assets/icons/instagram.svg')" />
-          <img class="footer__social--icon" :src="require('@/assets/icons/twitter.svg')" />
+          <a href="https://www.facebook.com/valorizevidas/" target="_blank">
+            <img class="footer__social--icon" :src="require('@/assets/icons/facebook.svg')" />
+          </a>
+          <a href="https://twitter.com/valorizevidas" target="_blank">
+            <img class="footer__social--icon" :src="require('@/assets/icons/twitter.svg')" />
+          </a>
+          <a href="#" target="_blank">
+            <img class="footer__social--icon" :src="require('@/assets/icons/instagram.svg')" />
+          </a>
         </div>
-        <img class="footer__logo" :src="require('@/assets/images/logo-horizontal.svg')" />
+        <a href="/">
+          <img class="footer__logo" :src="require('@/assets/images/logo-horizontal.svg')" />
+        </a>
       </div>
     </div>
   </footer>
