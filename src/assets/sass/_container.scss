@@ -1,15 +1,22 @@
 .container {
-  // margin: 100px;
-  padding: 100px;
-
+  margin: 2% auto 0 auto;
   .logo {
     max-width: 350px;
-    margin-bottom: 50px;   
+    height: auto;
+    margin-bottom: 50px;
   }
-  
+
   .mensagem {
     font-size: 18px;
     font-family: 'Montserrat Medium';
-    color: #6A6A6A;
+    color: #6a6a6a;
+  }
+
+  .cards-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #989898;
+    font-family: 'Montserrat Bold';
+    text-transform: uppercase;
   }
 }

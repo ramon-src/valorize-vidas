@@ -1,22 +1,18 @@
 <template>
   <div id="app">
-    <NavBar/>
-    <Footer/>
-    <!-- <Container/> -->
-    <router-view/>
-
+    <NavBar />
+    <router-view />
+    <Footer />
   </div>
 </template>
 <script>
-import NavBar from '@/components/NavBar.vue';
-import Footer from '@/components/Footer.vue';
-// import Bulma from 'bulma';
-
+import NavBar from '@/components/NavBar.vue'
+import Footer from '@/components/Footer.vue'
 
 export default {
   components: {
     NavBar,
-    Footer,
-  },
-};
+    Footer
+  }
+}
 </script>
