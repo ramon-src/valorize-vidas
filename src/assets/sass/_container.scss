@@ -1,15 +1,24 @@
-.container {
-  // margin: 100px;
-  padding: 100px;
+.logo {
+  max-width: 350px;
+  height: auto;
+  margin-bottom: 50px;
+}
 
-  .logo {
-    max-width: 350px;
-    margin-bottom: 50px;   
-  }
-  
-  .mensagem {
-    font-size: 18px;
-    font-family: 'Montserrat Medium';
-    color: #6A6A6A;
+.mensagem {
+  font-size: 18px;
+  font-family: 'Montserrat Medium';
+  color: #6a6a6a;
+}
+
+.cards-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #989898;
+  font-family: 'Montserrat Bold';
+  text-transform: uppercase;
+}
+@media screen and (min-width: 1085px) and (max-width: 1800px) {
+  .cards {
+    min-height: 500px;
   }
 }

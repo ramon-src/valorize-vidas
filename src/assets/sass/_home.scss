@@ -1,0 +1,11 @@
+.home {
+  margin: 40px 0px 0px 0px;
+}
+@media screen and (min-width: 1085px) and (max-width: 1800px) {
+  .main {
+    min-width: 1000px;
+  }
+  .cards {
+    min-height: 500px;
+  }
+}
