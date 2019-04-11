@@ -113,6 +113,19 @@
         "code",
         "financial"
       ]
+    },
+    {
+      "login": "raryson",
+      "name": "Raryson Pereira Rost",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13910440?v=4",
+      "profile": "https://github.com/raryson",
+      "contributions": [
+        "bug",
+        "code",
+        "infra",
+        "maintenance",
+        "test"
+      ]
     }
   ]
 }
