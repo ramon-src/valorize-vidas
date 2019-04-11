@@ -1,14 +1,14 @@
 <template>
   <div id="app">
     <NavBar />
-    <section class="columns">
+    <section class="columns max-width-mobile">
       <div class="column"></div>
       <div class="column main">
         <router-view />
       </div>
       <div class="column"></div>
     </section>
-    <div class="columns">
+    <div class="columns max-width-mobile">
       <div class="column"></div>
       <div class="column">
         <Footer />

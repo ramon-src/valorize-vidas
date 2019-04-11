@@ -24,7 +24,8 @@
 
 @media screen and (min-width: 360px) and (max-width: 480px) {
   .footer {
-    padding: 1rem 1.5rem 1rem;
+    padding: 1rem;
+    max-width: 360px;
     &--img {
       margin-left: 0.5rem;
     }
