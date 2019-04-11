@@ -1,8 +1,20 @@
 <template>
   <div id="app">
     <NavBar />
-    <router-view />
-    <Footer />
+    <section class="columns">
+      <div class="column"></div>
+      <div class="column main">
+        <router-view />
+      </div>
+      <div class="column"></div>
+    </section>
+    <div class="columns">
+      <div class="column"></div>
+      <div class="column">
+        <Footer />
+      </div>
+      <div class="column"></div>
+    </div>
   </div>
 </template>
 <script>
@@ -16,3 +28,4 @@ export default {
   }
 }
 </script>
+<style lang="scss"></style>

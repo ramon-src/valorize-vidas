@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <FormContact />
-  </div>
+  <FormContact />
 </template>
 <script>
 import FormContact from '@/components/FormContact.vue'
