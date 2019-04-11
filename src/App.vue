@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <NavBar />
-    <section class="columns max-width-mobile">
+    <Navbar />
+    <section class="columns">
       <div class="column"></div>
-      <div class="column main">
+      <div class="column is-three-fifths">
         <router-view />
       </div>
       <div class="column"></div>
     </section>
-    <div class="columns max-width-mobile">
+    <div class="columns">
       <div class="column"></div>
-      <div class="column">
+      <div class="column is-three-fifths">
         <Footer />
       </div>
       <div class="column"></div>
@@ -18,14 +18,14 @@
   </div>
 </template>
 <script>
-import NavBar from '@/components/NavBar.vue'
-import Footer from '@/components/Footer.vue'
+import Navbar from "@/components/NavBar.vue";
+import Footer from "@/components/Footer.vue";
 
 export default {
   components: {
-    NavBar,
+    Navbar,
     Footer
   }
-}
+};
 </script>
 <style lang="scss"></style>
