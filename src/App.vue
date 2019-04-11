@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <NavBar />
+    <Navbar />
     <section class="columns max-width-mobile">
       <div class="column"></div>
       <div class="column main">
@@ -18,12 +18,12 @@
   </div>
 </template>
 <script>
-import NavBar from '@/components/NavBar.vue'
+import Navbar from '@/components/Navbar.vue'
 import Footer from '@/components/Footer.vue'
 
 export default {
   components: {
-    NavBar,
+    Navbar,
     Footer
   }
 }
