@@ -15,6 +15,11 @@ Sendo assim, o Valorize Vidas tem por objetivo inicial, re-escrever as soluçõe
 
 Temos um texto um pouco maior falando sobre isso, você [pode encontra-lo aqui](https://docs.google.com/document/d/1Tnaza0zEO5yQZudIBHJKmC24N8GETzkYG1ZA9qcRhB4).
 
+## Qual nossa visão para termos o projeto "pronto"?
+
+- Re-escrever plataforma nacional [CVV](https://www.cvv.org.br/) com nossa [proposta de UX | UI](https://github.com/ValorizeVidas/valorize-vidas).
+- Ajudar as CVV regionais em como se apresentar para o público alvo, a fim de ter uma maior conversão de doações e voluntariado.
+
 ## Como começar
 
 Abaixo estão as instruções de como utilizar o projeto em ambiente de desenvolvimento e produção.
