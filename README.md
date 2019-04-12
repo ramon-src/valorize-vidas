@@ -18,6 +18,7 @@ O que é necessário para rodar o projeto?
 
 ```
 Node.Js 8.x
+Yarn
 ```
 
 ### Instalando
