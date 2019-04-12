@@ -8,6 +8,13 @@ Valorize Vidas é um projeto sem fins lucrativos com o objetivo de ajudar, enten
 setor, sendo um braço tecnológico. Temos por objetivo, observar as dores atuais destas
 entidades e resolver através do uso de ferramentas opensource.
 
+## Como surgiu?
+O projeto surgiu através da identificação de vários problemas atuais que ocorrem na única plataforma nacional de prevenção ao suicídio chamada [CVV - Centro de Valorização a Vida](https://www.cvv.org.br/).
+
+Sendo assim, o Valorize Vidas tem por objetivo inicial, re-escrever as soluções já fornecidas na plataforma da CVV, pois, atualmente não atendem ao cenário real, gerando problemas de gargalos e má usabilidade da plataforma.
+
+Temos um texto um pouco maior falando sobre isso, você [pode encontra-lo aqui](https://docs.google.com/document/d/1Tnaza0zEO5yQZudIBHJKmC24N8GETzkYG1ZA9qcRhB4).
+
 ## Como começar
 
 Abaixo estão as instruções de como utilizar o projeto em ambiente de desenvolvimento e produção.
