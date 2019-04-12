@@ -47,7 +47,9 @@
         </div>
         <div class="columns is-variable is-4">
           <div class="column card-column">
-            <Card :title="'Contribuir'" :icon="'hand-holding-usd-solid'" :bgColor="'#E8AE28'" />
+            <a href="http://apoia.se/valorizevidas" target="_blank">
+              <Card :title="'Contribuir'" :icon="'hand-holding-usd-solid'" :bgColor="'#E8AE28'" />
+            </a>
           </div>
           <div class="column card-column">
             <Card :title="'Voluntariar'" :icon="'hand-holding-heart-solid'" :bgColor="'#F7C248'" />
