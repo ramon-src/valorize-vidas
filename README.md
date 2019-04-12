@@ -25,6 +25,9 @@ Temos um texto um pouco maior falando sobre isso, você [pode encontra-lo aqui](
 - [Página Contato](https://valorizevidas.org/#/contato)
 - [Proposta de UI/UX](https://www.figma.com/file/KoFAagWzzSdf9x9RSV7rl53R/Valorize-Vidas?node-id=1%3A93)
 
+## O que falta?
+- Dê uma olhada em [nossas issues]()
+
 ## Como começar
 
 Abaixo estão as instruções de como utilizar o projeto em ambiente de desenvolvimento e produção.
