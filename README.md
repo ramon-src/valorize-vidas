@@ -13,7 +13,7 @@ O projeto surgiu através da identificação de vários problemas atuais que oco
 
 Sendo assim, o Valorize Vidas tem por objetivo inicial, re-escrever as soluções já fornecidas na plataforma da CVV, pois, atualmente não atendem ao cenário real, gerando problemas de gargalos e má usabilidade da plataforma.
 
-Temos um texto um pouco maior falando sobre isso, você [pode encontra-lo aqui](https://docs.google.com/document/d/1Tnaza0zEO5yQZudIBHJKmC24N8GETzkYG1ZA9qcRhB4).
+Temos um texto um pouco maior falando sobre isso, você [pode encontra-lo aqui](docs/escopo.md).
 
 ## Qual nossa visão para termos o projeto "pronto"?
 
