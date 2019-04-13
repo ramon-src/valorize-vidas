@@ -1,7 +1,7 @@
 <template>
-  <nav class="navbar">
+  <nav class="navbar" data-qa="navbar">
     <div class="menu-container">
-      <button class="menu-button" v-on:click = "toggleMenu()">
+      <button class="menu-button" v-on:click = "toggleMenu()" data-qa="navbar-menu-btn">
         <svg viewBox="0 0 24 24">
           <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
         </svg>
@@ -16,7 +16,7 @@
           </button>
         </li>
         <li>
-          <router-link to="/">Home</router-link>
+          <router-link to="/" data-qa="navbar-home-link">Home</router-link>
         </li>
         <li>
           <router-link to="/contato">Contato</router-link>
