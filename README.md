@@ -26,7 +26,7 @@ Temos um texto um pouco maior falando sobre isso, você [pode encontra-lo aqui](
 - [Proposta de UI/UX](https://www.figma.com/file/KoFAagWzzSdf9x9RSV7rl53R/Valorize-Vidas?node-id=1%3A93)
 
 ## O que falta?
-- Dê uma olhada em [nossas issues]()
+- Dê uma olhada em [nossas issues](https://github.com/ValorizeVidas/valorize-vidas/issues)
 
 ## Como começar
 
